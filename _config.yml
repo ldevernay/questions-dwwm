@@ -22,7 +22,7 @@ title: Questions certification DWWM
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Ce site a pour but de référencer les questions posées par les jurés lors du passage de la certif DWWM. Pour contribuer au projet, se rendre sur le repo : https://github.com/ldevernay/questions-dwwm
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/questions-dwwm" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
